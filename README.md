@@ -14,8 +14,13 @@
 - امکان اضافه کردن پورت جدید به تانل های قبلی
 - سیستم بک آپ گیری از دیتابیس پنل بر روی هاست و بات تلگرام
 
--  ## شروع راه اندازی با دستور
+## شروع راه اندازی با دستور
 ```wget https://raw.githubusercontent.com/ToolSeRF/SEGARO-Reverse-Tunnel/main/segaro.sh && bash segaro.sh ```
+
+
+
+## آموزش ویدیویی استفاده از تانل
+https://www.youtube.com/watch?v=19uoPGBAl3Y&t=8s
   
 ---
 <img width="451" height="367" alt="image" src="https://github.com/user-attachments/assets/c70dc8bc-3275-4497-8e92-4779566156aa" />
